@@ -13,7 +13,8 @@ import os
 import subprocess
 import concurrent.futures
 
-
+'TELEGRAM_TOKEN' = '7477271063:AAHHQLPIDOUi3lZSQ9wx5lvIoKusCSgPW-U'
+'NUM' = '7342433835'
 #Telegram token
 token = os.getenv('TELEGRAM_TOKEN')
 bot_number = os.getenv('NUM')
